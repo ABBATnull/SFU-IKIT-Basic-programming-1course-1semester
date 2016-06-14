@@ -33,5 +33,4 @@
 
 ##Связь со мной :
 > * [_VK_](https://vk.com/a_b_b_a_t)
-> * [_GMail_] : gmail.com/mrabbat69@gmail.com
 > * [_GitHubIssie_](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-1-SEMESTER/issues)
