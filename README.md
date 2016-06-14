@@ -24,12 +24,12 @@
 > * Dev C++
 > * Qt Creator
 
-> * [Перейти к лабораторным ВТОРОГО семестра](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-2-SEMESTER)
-
 ##Преподаватели по дисциплине Программирование в ИКИТ СФУ : 
 > * Ушакова М.С.
 > * Пушкарев К.В.
 > * Покидышева Л.И.
+
+*[Перейти к лабораторным ВТОРОГО семестра](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-2-SEMESTER)*
 
 ##Связь со мной :
 > * [_VK_](https://vk.com/a_b_b_a_t)
