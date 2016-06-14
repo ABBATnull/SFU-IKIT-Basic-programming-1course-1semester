@@ -29,7 +29,10 @@
 > * Пушкарев К.В.
 > * Покидышева Л.И.
 
-[**_Перейти к лабораторным ВТОРОГО семестра_**](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-2-SEMESTER)
+##Вам это может быть интересно
+> * [**_Перейти к лабораторным ВТОРОГО семестра по ПРОГРАММИРОВАНИЮ_**](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-2-SEMESTER)
+> * [**_Перейти к лабораторным по ИНФОРМАТИКЕ_**](https://github.com/ABBATnull/SFU-IKIT-LABY-INFA-2)
+> * [**_Больше вариантов лабораторных по ПРОГРАММИРОВАНИЮ у этого парня:_**](https://github.com/Zulcom/Programming-Basis-II)
 
 ##Связь со мной :
 > * [_VK_](https://vk.com/a_b_b_a_t)
