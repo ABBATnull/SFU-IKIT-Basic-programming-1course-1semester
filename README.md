@@ -3,7 +3,7 @@
 
 ![лого СФУ ИКИТ](http://cs303104.vk.me/v303104705/38d3/RCd9ruiSIVw.jpg)
 
-Лабораторные работы по дисциплине ПРОГРАММИРОВАНИЕ (Information Science)
+Лабораторные работы по дисциплине ПРОГРАММИРОВАНИЕ (Programming Technology)
 =====================
 ПЕРВЫЙ семестр
 =====================
@@ -33,4 +33,4 @@
 
 ##Связь со мной :
 > * [_VK_](https://vk.com/a_b_b_a_t)
-> * [_GitHubIssie_](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-1-SEMESTER/issues)
+> * [_GitHubIssue_](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-1-SEMESTER/issues)
