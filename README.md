@@ -29,7 +29,7 @@
 > * Пушкарев К.В.
 > * Покидышева Л.И.
 
-[**Перейти к лабораторным ВТОРОГО семестра**](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-2-SEMESTER)
+[**_Перейти к лабораторным ВТОРОГО семестра_**](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-2-SEMESTER)
 
 ##Связь со мной :
 > * [_VK_](https://vk.com/a_b_b_a_t)
